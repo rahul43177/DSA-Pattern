@@ -9,7 +9,7 @@
   },
   {
     "label": "Debug NodeJs (current file)",
-    "adapter": "JavaScript",
+    "adapter": "node",
     "request": "launch",
     "runtimeExecutable": "node",
     "program": "$ZED_FILE",

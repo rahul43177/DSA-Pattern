@@ -1,1 +1,4 @@
+.vscode/
 .zed/
+*.exe
+a.out

@@ -5,7 +5,7 @@
     "request": "launch",
     "program": "$ZED_WORKTREE_ROOT/.zed/bin/$ZED_STEM",
     "cwd": "$ZED_WORKTREE_ROOT",
-    "build": "Build & Debug C++"
+    "build": "Build & Run C++"
   },
   {
     "label": "Debug NodeJs (current file)",
